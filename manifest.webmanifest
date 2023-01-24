@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "img/logo/sponser-7-192.png",
+      "type": "img/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/logo/sponser-7-512.png",
+      "type": "img/png",
+      "sizes": "512x512"
+    }
+  ]
+}
